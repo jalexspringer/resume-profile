@@ -16,9 +16,12 @@
 US: +1 510.393.8277  
 UK: +44 7444.747358
 
-Client  focused  with  a  history  of  successful  sales,  operations,  and  technical contributions  and  leadership.  I  am  most  engaged  when speaking  directly  with  the  end  user  and  gaining  a  deep  understanding  of  their needs  and  challenges  and  working  towards  creating  the  solution  to  those  needs. I  bring  excellent  communication,  project  planning,  and  data-driven  decision making  to  the  teams  that  I  work  on  and  am  looking  for  a  position taking a consultative approach to helping clients increase efficiency and reduce time to delivery.
+Client  focused  with  a  history  of  successful  sales,  operations,  and  technical contributions  and  leadership.  I  am  most  engaged  when speaking  directly  with  the  end  user  and  gaining  a  deep  understanding  of  their needs  and  challenges  and  working  towards  creating  the  solution  to  those  needs. I  bring  excellent  communication,  project  planning,  and  data-driven  decision making  to  the  teams  that  I  work  on.
 
-## Qualifications
+[Introduction Letter](https://jalexspringer.github.io/intro.html)  
+[My User Guide](https://jalexspringer.github.io/user_guide.html)
+
+## Technical Qualifications
 - AWS Certified Solutions Architect (Associate) 
 - Certified Linux Systems Administrator
 - Fluent in Python and Bash
@@ -34,8 +37,7 @@ Client  focused  with  a  history  of  successful  sales,  operations,  and  tec
 
 - Lead a team of 9 account executives (SMB to Enterprise) and 3 solutions architects.
 - Responsible for net revenue expansion (new business and cross-sells) for the region.
-- Implemented a sales process and mentality re-positioning to focus on customer
-  centric sales resulting in a 200% YoY increase in annual recurring revenue.
+- Implemented a sales process and mentality re-positioning to focus on [customer centric sales](https://jalexspringer.github.io/cc_sales.html) resulting in a 200% YoY increase in annual recurring revenue.
 - Manage an integrated sales and operations team responsible for revenue generation and new client onboarding.
 
 ### Manager, Solutions Architects

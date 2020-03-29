@@ -1,3 +1,13 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <title>Alex Springer - Sales and Solutions</title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="resume-css-stylesheet.css" type="text/css" />
+</head>
+<body>
+
 # Customer centric sales process
 ** This document was created by Alex Springer and regularly
 hacked/modified/toyed with as specific needs evolve. Feel free to take it and modify for

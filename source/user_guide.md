@@ -1,8 +1,20 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <title>Alex Springer - Sales and Solutions</title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="resume-css-stylesheet.css" type="text/css" />
+</head>
+<body>
+
 # Alex Springer’s User Guide
 
 Welcome to my User Guide to working with me. The faster we get to know each other and how we work, the better and stronger our relationship will be, and the more we’ll accomplish together. I encourage you to write your own User Guide so I and your team can learn how to work best with you. This is a living document that will change and evolve as I learn more about myself and how we can best support each other.
 
 A good starting point for this is the 16 personality/Myers-Briggs test. My results (and free to take test) here: [https://www.16personalities.com/profiles/e012c8744b76a]( https://www.16personalities.com/profiles/e012c8744b76a ) 
+
+Note: This borrows heavily from a few different user guides from executives I admire. Thank you for the inspiration!
 
 ## My approach
 
