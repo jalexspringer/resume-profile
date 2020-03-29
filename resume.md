@@ -2,12 +2,12 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta http-equiv="Content-Style-Type" content="text/css" />
-  <meta name="generator" content="pandoc" />
-  <title></title>
+  <title>Alex Springer - Sales and Solutions</title>
   <style type="text/css">code{white-space: pre;}</style>
   <link rel="stylesheet" href="resume-css-stylesheet.css" type="text/css" />
 </head>
 <body>
+
 # Alex Springer
 ## Sales Management // Solutions Architecture
 [alexspringer@pm.me]( mailto:alexspringer@pm.me )  
