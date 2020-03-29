@@ -9,17 +9,12 @@
 <body>
 
 # Alex Springer
+[ [Resume](https://jalexspringer.github.io/resume.html) ] - [ [Linkedin]( https://linkedin.com/in/jalexspringer ) ] - [ [Github](https://github.com/jalexspringer ) ] - [ [Introduction Letter](https://jalexspringer.github.io/intro.html) ] - [ [My User Guide](https://jalexspringer.github.io/user_guide.html) ] - [ [Customer Success](https://jalexspringer.github.io/cc_sales.html) ] - [ [Blog](https://deeplineproject.com) ]
+
 ## Sales Management // Solutions Architecture
-[alexspringer@pm.me]( mailto:alexspringer@pm.me )  
-[https://linkedin.com/in/jalexspringer]( https://linkedin.com/in/jalexspringer )  
-[https://github.com/jalexspringer]( https://github.com/jalexspringer )  
-US: +1 510.393.8277  
-UK: +44 7444.747358
 
 Client  focused  with  a  history  of  successful  sales,  operations,  and  technical contributions  and  leadership.  I  am  most  engaged  when speaking  directly  with  the  end  user  and  gaining  a  deep  understanding  of  their needs  and  challenges  and  working  towards  creating  the  solution  to  those  needs. I  bring  excellent  communication,  project  planning,  and  data-driven  decision making  to  the  teams  that  I  work  on.
 
-[Introduction Letter](https://jalexspringer.github.io/intro.html)  
-[My User Guide](https://jalexspringer.github.io/user_guide.html)
 
 ## Technical Qualifications
 - AWS Certified Solutions Architect (Associate) 
