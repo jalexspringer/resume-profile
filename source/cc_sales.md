@@ -9,7 +9,7 @@
 <body>
 
 # Customer centric sales process
-** This document was created by Alex Springer and regularly
+This document was created by [Alex Springer](https://jalexspringer.github.io) and regularly
 hacked/modified/toyed with as specific needs evolve. Feel free to take it and modify for
 your own organisation.
 
@@ -19,21 +19,25 @@ your own organisation.
   - Understand the buyer, use MEDDPICC, and get ahead of surprises
 - Trusted advisor to customer on not just the product but also the process that it takes to get it purchased
 - Accurate forecasting based on a mutually agreed plan between us and the customer
+
 ## Our Focus - Customer Success and Growth
 - Always doing exactly what is right for our customers
 - Every conversation is about what the client needs, not our company or quota needs
 - Quota attainment is the measure of the success of this approach, not the end itself. Our customers don’t care about our quotas
 - Individual account engagements are all unique and proceed at a pace set by both us and the client, unrelated to our artificially imposed quarters
 - No surprises - ask every question, know the pitfalls. See ‘Discovery’ below.
+
 ## Qualification
 - Most important question: is our solution what the customer needs to grow and be successful?
 - Budget, timing, ability are important but secondary, because...
+
 ## Building Trust
 - All proceeds on the goal of helping the customer get the solution that they need in place. If that need is for Impact, move forward. If it isn’t, move on.
 - We do this all the time - the customer doesn’t. They benefit from our help in not just explaining the solution/product/USP/market problem, but also in setting the pace for a successful process
 - Customers need to trust us enough to tell us what they need, but also to know that we are not just doing this for our quarter
 - Actively listening, echoing what we have learned, tailoring messaging based on it, and showing how each of our steps add value is important
 - With every next step the question in our minds is - what moves this customer closer to their end goal - and since we know from qualification that what this customer needs is our product, the end goal is of course the sale and successful onboarding!
+
 ## Discovery
 - Partnerships related:
     - challenges in current program/processes
@@ -48,7 +52,8 @@ your own organisation.
     - Code freezes
     - Budget/business cycles
     - Broader business focuses
-# Owning the process
+
+## Owning the process
 - Confident and quick follow up is key - don’t ever leave the conversation hanging
     - A quick thank you note and a promise of more in depth follow up is fine
 - Be proactive about suggesting next steps
@@ -67,7 +72,8 @@ your own organisation.
 - Don’t be afraid to ask questions, as long as they clearly demonstrate a client focus
 - It’s about what they need, not what we need
 - Always be looking for the surprises that we know are there
-# Keep up the pace
+
+## Keep up the pace
 - Diligence, transparency, and ownership leads to professional interactions
 - Deliver timely responses, with considered and relevant information
 - Echo what we have learned in the most recent conversations, good or bad
