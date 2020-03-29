@@ -1,91 +1,64 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+﻿# Alex Springer
+### Sales Management // Solutions Architecture
+[alexspringer@pm.me]( mailto:alexspringer@pm.me )  
+[https://linkedin.com/in/jalexspringer]( https://linkedin.com/in/jalexspringer )  
+[https://github.com/jalexspringer]( https://github.com/jalexspringer )  
+US: +1 510 393 8277  
+UK: +44 7444 747358
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+Client  focused  with  a  history  of  successful  sales,  operations,  and  technical contributions  and  leadership.  I  am  most  engaged  when speaking  directly  with  the  end  user  and  gaining  a  deep  understanding  of  their needs  and  challenges  and  working  towards  creating  the  solution  to  those  needs. I  bring  excellent  communication,  project  planning,  and  data-driven  decision making  to  the  teams  that  I  work  on  and  am  looking  for  a  position taking a consultative approach to helping clients increase efficiency and reduce time to delivery.
 
+## Qualifications
+- AWS Certified Solutions Architect (Associate) 
+- Certified Linux Systems Administrator
+- Fluent in Python and Bash
+- Working knowledge of Go, Java, and Javascript
+- AWS Lambda, EC2, S3, DynamoDB, and CloudFormation experience
+- DevOps experience using Docker, Git, Travis, and Chef
 
-## Currently
+## Experience
 
-Standing on the shoulders of giants
+### Director, Sales and Solutions Architects EMEA
+**August 2019 - Present**  
+**Impact Inc - London, UK**
 
-### Specialized in
+- Lead a team of 9 account executives (SMB to Enterprise) and 3 solutions architects
+- Responsible for net revenue expansion (new business and cross-sells) for the region
+- Implemented a sales process and mentality re-positioning to focus on customer centric sales resulting in a YoY increase in annual recurring revenue of over £2mm.
+- Manage an integrated pre- and post- sales team responsible for revenue generation and new client onboarding
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Manager, Solutions Architects
+**February 2018 - August 2019**  
+**Impact Inc - New York, NY**
 
+- Manage  a  globally distributed team  of  10  solutions  architects  across  3  products.
+- Re-organized  the  SA  and  onboarding  teams  to  prioritize  positive  client onboarding  experiences,  resulting  in  a  50%  decrease  in  average  client  time in  onboarding.
+- Designed  and  executed  a  customer  engagement  model  spanning  pre  and post-sale  to  reduce  client  churn  in  US  and  EMEA  markets.
+- Collaborate  with  prospective  and  existing  clients  to  understand  product needs.
 
-### Research interests
+### Enterprise Solutions Architect
+**September 2015 - February 2018**  
+**Impact Radius (Impact Inc) - Santa Barbara, CA**
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Scope  and  execute  enterprise  implementations  of  a  complex  SaaS marketing  product.
+- Prepare  and  deliver  in-depth  product  and  platform  walk-throughs  for enterprise client  sales  engagements. 
+- Provided  cost-effective  project  management  on  pre-sale  technical  and implementation issues for  senior  leaders. 
+- Automate and scale the creation of  demo and client environments, creating  and  updating  training  materials,  and  assisting  with onboarding  new  team  members.
+- Develop and maintain cloud-based  automation  tools  to  increase  team  efficiency  and  productivity.
 
+### Sales Development Associate
+**March 2015 - September 2015**  
+**Citrix Systems Inc - Santa Barbara, CA** 
 
-## Education
+- Product  specialist  for  GoToMeeting,  GoToWebinar,  GoToTraining, and  GoToAssist  IT Platforms.
+- Qualify  clients  for  personal  or  business accounts  and pass  opportunities  to  Business  Solutions Representatives.
 
-`1654-1660`
-__The King's School, Grantham.__
+### Head of Marketing and Product Communication
+**June 2012 - December 2014**  
+**Ancillary Medical Solutions - Los Angeles, CA**
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+- Developed  sales  pitches  and  market  positioning  for  over  20  patient services.
+- Created  training  materials,  ongoing  product  and  company  updates,  and company  social  media  network.
+- Managed  consultant  certification  program  and  oversaw  training  process.
+- Drafted,  managed,  and  implemented  a  marketing  strategy,  coordinated  with C-level executives. 
+- Designed  and  published  online  and  print  marketing  material.
