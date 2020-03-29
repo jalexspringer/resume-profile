@@ -1,10 +1,20 @@
-﻿# Alex Springer
-### Sales Management // Solutions Architecture
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="resume-css-stylesheet.css" type="text/css" />
+</head>
+<body>
+# Alex Springer
+## Sales Management // Solutions Architecture
 [alexspringer@pm.me]( mailto:alexspringer@pm.me )  
 [https://linkedin.com/in/jalexspringer]( https://linkedin.com/in/jalexspringer )  
 [https://github.com/jalexspringer]( https://github.com/jalexspringer )  
-US: +1 510 393 8277  
-UK: +44 7444 747358
+US: +1 510.393.8277  
+UK: +44 7444.747358
 
 Client  focused  with  a  history  of  successful  sales,  operations,  and  technical contributions  and  leadership.  I  am  most  engaged  when speaking  directly  with  the  end  user  and  gaining  a  deep  understanding  of  their needs  and  challenges  and  working  towards  creating  the  solution  to  those  needs. I  bring  excellent  communication,  project  planning,  and  data-driven  decision making  to  the  teams  that  I  work  on  and  am  looking  for  a  position taking a consultative approach to helping clients increase efficiency and reduce time to delivery.
 
