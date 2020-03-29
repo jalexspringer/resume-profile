@@ -32,10 +32,11 @@ Client  focused  with  a  history  of  successful  sales,  operations,  and  tec
 **August 2019 - Present**  
 **Impact Inc - London, UK**
 
-- Lead a team of 9 account executives (SMB to Enterprise) and 3 solutions architects
-- Responsible for net revenue expansion (new business and cross-sells) for the region
-- Implemented a sales process and mentality re-positioning to focus on customer centric sales resulting in a YoY increase in annual recurring revenue of over £2mm.
-- Manage an integrated pre- and post- sales team responsible for revenue generation and new client onboarding
+- Lead a team of 9 account executives (SMB to Enterprise) and 3 solutions architects.
+- Responsible for net revenue expansion (new business and cross-sells) for the region.
+- Implemented a sales process and mentality re-positioning to focus on customer
+  centric sales resulting in a 200% YoY increase in annual recurring revenue.
+- Manage an integrated sales and operations team responsible for revenue generation and new client onboarding.
 
 ### Manager, Solutions Architects
 **February 2018 - August 2019**  
